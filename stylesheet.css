@@ -3,6 +3,24 @@ body{
     padding: 0;
     width: 100%;
 }
+
+.logo-container{
+    margin-top: 0px;
+    margin-left: 0px;
+    position: absolute;
+    height: 110px;
+    width: 300px;
+    background-image: url("herobase.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.logo{
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
 .menu-hero-toolbar-section{
     position: relative;
     height: 510px;
@@ -59,7 +77,7 @@ nav ul {
     position: absolute;
     height: 500px;
     width: 700px;
-    margin-top: 12%;
+    margin-top: 17%;
     background-image: url("herobase.png");
     background-size: 68% 37%;
     background-repeat: no-repeat;
