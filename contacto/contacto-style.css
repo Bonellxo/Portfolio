@@ -11,18 +11,26 @@ body{
 
 .logo-container{
     position: absolute;
-    height: 100px;
-    width: auto;
+    margin-top: 9px;
+    margin-left: 0px;
+    height: 110px;
+    width: 300px;
+    background-image: url("herobase.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
 }
-
 .logo-link{
-    height: 100px;
-    width: auto;
+    height: 65px;
+    width: 300px;
+    position: absolute;
+    margin-left: 10px;
 }
-
 .logo{
-    height: 100px;
+    height: 100%;
     width: auto;
+    padding: 10px;  
+    margin-top: 0px;
+    margin-left: 10px;
 }
 
 .header{
