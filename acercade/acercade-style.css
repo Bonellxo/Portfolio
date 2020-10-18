@@ -117,10 +117,22 @@ p{
     background-repeat: no-repeat;
 }
 
+.resume-button{
+    margin-top: 7%;
+    height: 50px;
+    width: 200px;
+    border-radius: 9px;
+    border-color: rgba(239, 241, 104, 0);
+    font-size: 1.2em;
+    color: whitesmoke;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    background-color: rgb(233, 74, 122);
+}
+
 .tecnologias-content{
-    margin-top: 700px;
+    margin-top: 900px;
     width: 100%;
-    height: 1000px;
+    height: 1100px;
 }
 
 .frontend-dummie{
